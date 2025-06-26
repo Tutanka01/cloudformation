@@ -8,7 +8,7 @@ style: |
   :root {
     --header-bg: #2c3e50;
     --text-color: #34495e;
-    --accent-color: #8e44ad; /* Un violet pour la créativité et la */
+    --accent-color: #8e44ad; /* Un  pour la créativité et la */
     --code-bg: #ecf0f1;
     --code-color: #c0392b;
   }
